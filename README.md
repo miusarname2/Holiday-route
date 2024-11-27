@@ -1,5 +1,5 @@
 ## Description
-This repository documents my learning path based on [roadmap.sh](https://roadmap.sh) during my university holidays. The objective is to master key technologies in system administration, DevOps and monitoring in a period of 31 days through hands-on projects and educational resources in Spanish and English.  
+This repository documents my learning path based on [roadmap.sh](https://roadmap.sh/r/vacationroadmap) during my university holidays. The objective is to master key technologies in system administration, DevOps and monitoring in a period of 31 days through hands-on projects and educational resources in Spanish and English.  
 
 ### Technologies to learn:  
 - **Automation:** Monit, Ansible, Chef, Puppet, Terraform.  
